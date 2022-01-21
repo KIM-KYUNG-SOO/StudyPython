@@ -1,7 +1,7 @@
 # StudyPython
 빅데이터 파이썬 학습 리포지토리
 
-
+![python](https://cdn.inflearn.com/public/files/courses/324427/77848686-1708-418b-999d-645d4f5b76f3/I_O_python_1.png)
 ### 1일차
 - 프로그래밍 이해
 - 파이썬 설치, Visual Studio code 설치
